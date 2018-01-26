@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "서둘러",
+    "icon": "./ic_launcher.png",
+    "notification": {
+      "icon": "./ic_stat_bird_logo.png",
+      "color": "#FFFFFF"
+    },
+    "version": "1.0.0",
+    "slug": "seoulrunner",
+    "sdkVersion": "20.0.0",
+    "android": {
+      "package": "com.dlehdanakf.seoulrunner"
+    }
+  }
+}
